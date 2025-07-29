@@ -8,4 +8,3 @@ gTTS
 geocoder
 folium
 streamlit-folium
-
