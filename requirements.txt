@@ -1,0 +1,10 @@
+streamlit
+vosk
+sounddevice
+numpy
+Pillow
+qrcode
+gTTS
+geocoder
+folium
+streamlit‐folium
