@@ -7,4 +7,5 @@ qrcode
 gTTS
 geocoder
 folium
-streamlit‐folium
+streamlit-folium
+
